@@ -1550,9 +1550,6 @@
   "Any flows currently using these connections": "Any flows currently using these connections",
   "will break immediately": "will break immediately",
   "Strike": "Strike",
-  "Bold": "Bold",
-  "Italic": "Italic",
-  "Underline": "Underline",
   "Image": "Image",
   "Loading...": "Loading...",
   "useMultiSelect must be used within MultiSelectProvider": "useMultiSelect must be used within MultiSelectProvider",
@@ -2304,5 +2301,6 @@
   "1 min ago": "1 min ago",
   "{count} mins ago": "{count} mins ago",
   "1 hour ago": "1 hour ago",
-  "{count} hours ago": "{count} hours ago"
+  "{count} hours ago": "{count} hours ago",
+  "Continue with Google": "Continue with Google"
 }
